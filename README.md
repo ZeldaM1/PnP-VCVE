@@ -1,17 +1,18 @@
 # Plug-and-Play Versatile Compressed Video Enhancement
 <a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/Paper-red"></a> 
-<!-- <a href="https://openaccess.thecvf.com/content/WACV2025/supplemental/Zeng_All-in-One_Image_Compression_WACV_2025_supplemental.pdf"><img src="https://img.shields.io/badge/Supp-blue"> -->
-</a> <a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
+<a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
 <a href="https://www.youtube.com/watch?v=ZmsexIBM3ao&t=6s"><img src="https://img.shields.io/badge/Video-orange"></a>
 <a href="https://huimin-zeng.github.io/PnP-VCVE/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
-
+<!-- <a href="https://openaccess.thecvf.com/content/WACV2025/supplemental/Zeng_All-in-One_Image_Compression_WACV_2025_supplemental.pdf"><img src="https://img.shields.io/badge/Supp-blue"> -->
+</a> 
 
 
 [Huimin Zeng](https://zeldam1.github.io/), [Jiacheng Li](http://home.ustc.edu.cn/~jclee/), [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/)
 
 
 ## 🔥 Update
-🔥 2025/6/5: We release code and [checkpoint](https://drive.google.com/drive/folders/1uQNUGUWtibMX1EB9Y33Zh-Ss6fK7tC9C?usp=sharing) for this project.
+🔥 2025/6/5: We release [code](https://github.com/ZeldaM1/PnP-VCVE) and [checkpoint](https://drive.google.com/drive/folders/1__w21sSiEeKGCN_Rhzesii8trCdgVdxC?usp=sharing) for this project.
+
 2025/4/10: Our Plug-and-Play was accepted to CVPR 2025
 
 
@@ -63,7 +64,7 @@ docker pull registry.cn-hangzhou.aliyuncs.com/zenghuimin/zhm_docker:py37-torch18
 ```
 ./tools/dist_train.sh  configs/HR_davis_LR_128x128.py  1   --exp_name HR_davis_LR_128x128
 ```
-* Replacing CRF with slice type
+* Replacing CRF with slice type (adopted for assisting in downstream tasks)
 ```
 ./tools/dist_train.sh  configs/HR_davis_LR_128x128_IPB.py  1   --exp_name HR_davis_LR_128x128_IPB
 ```
