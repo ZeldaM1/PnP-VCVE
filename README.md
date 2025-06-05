@@ -1,5 +1,5 @@
 # Plug-and-Play Versatile Compressed Video Enhancement
-<a href="[https://arxiv.org/pdf/2504.15380](https://huimin-zeng.github.io/PnP-VCVE/assets/paper.pdf)"><img src="https://img.shields.io/badge/Paper-red"></a> 
+<a href="https://huimin-zeng.github.io/PnP-VCVE/assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-red"></a> 
 <a href="https://huimin-zeng.github.io/PnP-VCVE/assets/supp.pdf"><img src="https://img.shields.io/badge/Supp-blue"></a> 
 <a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
 <a href="https://www.youtube.com/watch?v=ZmsexIBM3ao&t=6s"><img src="https://img.shields.io/badge/Video-orange"></a>
