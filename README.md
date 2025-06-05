@@ -1,10 +1,10 @@
 # Plug-and-Play Versatile Compressed Video Enhancement
-<a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/Paper-red"></a> 
+<a href="[https://arxiv.org/pdf/2504.15380](https://huimin-zeng.github.io/PnP-VCVE/assets/paper.pdf)"><img src="https://img.shields.io/badge/Paper-red"></a> 
+<a href="https://huimin-zeng.github.io/PnP-VCVE/assets/supp.pdf"><img src="https://img.shields.io/badge/Supp-blue"></a> 
 <a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
 <a href="https://www.youtube.com/watch?v=ZmsexIBM3ao&t=6s"><img src="https://img.shields.io/badge/Video-orange"></a>
 <a href="https://huimin-zeng.github.io/PnP-VCVE/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
-<!-- <a href="https://openaccess.thecvf.com/content/WACV2025/supplemental/Zeng_All-in-One_Image_Compression_WACV_2025_supplemental.pdf"><img src="https://img.shields.io/badge/Supp-blue"> -->
-</a> 
+
 
 
 [Huimin Zeng](https://zeldam1.github.io/), [Jiacheng Li](http://home.ustc.edu.cn/~jclee/), [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/)
