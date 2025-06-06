@@ -1,7 +1,7 @@
 # Plug-and-Play Versatile Compressed Video Enhancement
-<a href="https://huimin-zeng.github.io/PnP-VCVE/assets/paper.pdf"><img src="https://img.shields.io/badge/Paper-red"></a> 
-<a href="https://huimin-zeng.github.io/PnP-VCVE/assets/supp.pdf"><img src="https://img.shields.io/badge/Supp-blue"></a> 
-<a href="https://arxiv.org/pdf/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_Plug-and-Play_Versatile_Compressed_Video_Enhancement_CVPR_2025_paper.pdf"><img src="https://img.shields.io/badge/Paper-red"></a> 
+<a href="https://openaccess.thecvf.com/content/CVPR2025/supplemental/Zeng_Plug-and-Play_Versatile_Compressed_CVPR_2025_supplemental.pdf"><img src="https://img.shields.io/badge/Supp-blue"></a> 
+<a href="https://arxiv.org/abs/2504.15380"><img src="https://img.shields.io/badge/arXiv-yellow"></a> 
 <a href="https://www.youtube.com/watch?v=ZmsexIBM3ao&t=6s"><img src="https://img.shields.io/badge/Video-orange"></a>
 <a href="https://huimin-zeng.github.io/PnP-VCVE/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
 
