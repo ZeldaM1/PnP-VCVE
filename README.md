@@ -34,7 +34,7 @@ The proposed codec-aware framework consists of a compression-aware adaptation (C
 | Video Inpainting|  [DAVIS](https://davischallenge.org/davis2017/code.html) |
 
 
-* The adopted official datasets can be found above, we provide compressed dataset on [GoogleDrive](https://drive.google.com/drive/folders/1MlPY6fYFBcljFlslIqkbQd-Ea2_0GkLp?usp=sharing).
+* The adopted official datasets can be found above. We provide compressed datasets on [GoogleDrive](https://drive.google.com/drive/folders/1MlPY6fYFBcljFlslIqkbQd-Ea2_0GkLp?usp=sharing).
 * Download all the datasets and structure the data as follows:
 
 ```
@@ -55,12 +55,12 @@ dataset
 
 
 ## Environment 
-We provide  docker image to prepare the running enviroment, which can be obtained using the following command: 
+We provide a  Docker image to prepare the running environment, which can be obtained using the following command: 
 ```
 docker pull registry.cn-hangzhou.aliyuncs.com/zenghuimin/zhm_docker:py37-torch18
 ```
 ## Train 
-* CRF based adaptation
+* CRF-based adaptation
 ```
 ./tools/dist_train.sh  configs/HR_davis_LR_128x128.py  1   --exp_name HR_davis_LR_128x128
 ```
@@ -109,15 +109,17 @@ Downstream video object segmentation models can be found at [STCN](https://githu
 * config file for KITTI/DAVIS dataset
 
 ## Acknowledgement
-This repository is partly built on [MMEditing](https://github.com/open-mmlab/mmagic). We appreciate their authors for creating these brilliant works and sharing codes with the community.
+This repository is partly built on [MMEditing](https://github.com/open-mmlab/mmagic). We appreciate the authors for creating these brilliant works and sharing code with the community.
 
 ## Citation
 If you find our Plug-and-Play useful, please star ⭐ this repository and consider citing:
 ```bibtex
-@article{zeng2025plug,
-  title={Plug-and-Play Versatile Compressed Video Enhancement},
-  author={Zeng, Huimin and Li, Jiacheng and Xiong, Zhiwei},
-  journal={arXiv preprint arXiv:2504.15380},
-  year={2025}
+@InProceedings{Zeng_2025_CVPR,
+    author    = {Zeng, Huimin and Li, Jiacheng and Xiong, Zhiwei},
+    title     = {Plug-and-Play Versatile Compressed Video Enhancement},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {17767-17777}
 }
 ```
