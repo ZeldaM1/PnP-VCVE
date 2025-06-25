@@ -11,7 +11,9 @@
 
 
 ## 🔥 Update
-🔥 2025/6/5: We release [code](https://github.com/ZeldaM1/PnP-VCVE) and [checkpoint](https://drive.google.com/drive/folders/1__w21sSiEeKGCN_Rhzesii8trCdgVdxC?usp=sharing) for this project.
+🔥 2025/6/25: We provided [Dockerfile](https://github.com/ZeldaM1/PnP-VCVE/blob/main/Dockerfile) and [requirement](https://github.com/ZeldaM1/PnP-VCVE/blob/main/requirements.txt) files for preparing the running environment.
+
+2025/6/5: We released [code](https://github.com/ZeldaM1/PnP-VCVE) and [checkpoint](https://drive.google.com/drive/folders/1__w21sSiEeKGCN_Rhzesii8trCdgVdxC?usp=sharing) for this project.
 
 2025/4/10: Our Plug-and-Play was accepted to CVPR 2025
 
